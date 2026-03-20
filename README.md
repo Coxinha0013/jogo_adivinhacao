@@ -29,7 +29,7 @@ diferentes.
 Aplicação de princípios como SRP, OCP, LSP, ISP e DIP.
 ---
 ## ▶️ Como executar
-
+```bash
 1. Instale o Python
 2. Execute o arquivo:
 python jogo.py

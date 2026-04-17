@@ -44,4 +44,7 @@ Atributos privados (`__nome`, `__pontuacao`, `__numero_secreto`) garantem que o 
 3. No terminal, execute o comando:
    ```bash
    python jogo.py
+   ````
+
+   <img width="658" height="570" alt="5e167f1c-d4a3-47d0-94db-0ed6622ab757" src="https://github.com/user-attachments/assets/241da237-59ab-4aed-8e6d-40f4e3b83a4c" />
    
